@@ -1,0 +1,74 @@
+
+
+.nav-item
+{
+	font-size: 20px;
+	font-weight: 20px;
+}
+
+.nav-item:hover
+{
+	color: darkblue;
+	text-decoration: underline;
+}
+
+.container-fluid
+{
+	background-color: lightskyblue;
+}
+/**/
+.col-8 
+{
+	border: 1px solid black;
+	justify-content: center;
+	justify-items: center;
+	align-items: center;
+}
+
+.col-3
+{
+	border: 1px solid black;
+	justify-content: center;
+	justify-items: center;
+	align-items: center;
+	text-align: center;
+}
+
+.container
+{
+	background-color: wheat;
+}
+/**/
+.img_size
+{
+	margin-top: 100px;
+	margin-left: 250px;
+}
+
+.heading
+{
+	margin-top: 70px;
+	margin-left: 8px;
+	margin-bottom: 30px;
+}
+
+.intro_para
+{
+	font-style: oblique;
+	font-weight: bolder;
+	font-size: 17px;
+}
+
+.col-12
+{
+	margin-top: 111px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 23px;
+	font-style: oblique;
+}
+/*Abou_us below*/
+.first_tech
+{
+
+}
