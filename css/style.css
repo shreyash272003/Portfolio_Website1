@@ -12,14 +12,14 @@
 	text-decoration: underline;
 }
 
-.container-fluid
+/*.container-fluid
 {
 	background-color: lightskyblue;
-}
+}*/
 /**/
 .col-8 
 {
-	border: 1px solid black;
+/*	border: 1px solid black;*/
 	justify-content: center;
 	justify-items: center;
 	align-items: center;
@@ -27,17 +27,17 @@
 
 .col-3
 {
-	border: 1px solid black;
+/*	border: 1px solid black;*/
 	justify-content: center;
 	justify-items: center;
 	align-items: center;
 	text-align: center;
 }
 
-.container
+/*.container
 {
 	background-color: wheat;
-}
+}*/
 /**/
 .img_size
 {
@@ -71,4 +71,102 @@
 .first_tech
 {
 
+}
+
+.html_head
+{
+	font-weight: bold;
+/*	margin-top: 5px;*/
+}
+
+.html_para
+{
+	font-size: 17px;
+	font-weight: bold;
+	font-style: oblique;
+	margin-bottom: 40px;
+}
+
+.css_head
+{
+font-weight: bold;
+}
+
+.css_para
+{
+	font-size: 17px;
+	font-weight: bold;
+	font-style: oblique;
+	margin-bottom: 28px;
+}
+
+.js_head
+{
+	font-weight: bold;
+/*	margin-top: 5px;*/
+}
+
+.js_para
+{
+	font-size: 17px;
+	font-weight: bold;
+	font-style: oblique;
+	margin-bottom: -10px;
+}
+
+.bootstrap_head
+{
+font-weight: bold;
+}
+
+.bootstrap_para
+{
+	font-size: 17px;
+	font-weight: bold;
+	font-style: oblique;
+}
+
+.wd_head
+{
+font-weight: bold;
+}
+
+.wd_para
+{
+	font-size: 17px;
+	font-weight: bold;
+	font-style: oblique;
+}
+
+.col-12 .footer_part
+{
+	font-weight: bold;
+	font-size: 22px;
+	font-style: oblique;
+}
+
+.footer_part
+{
+	border-radius: 20px;
+}
+
+/* Education-page (below) */
+.education_img
+{
+	background-color: wheat;
+	text-align: center;
+	justify-content: center;
+	justify-items: center;
+	align-items: center;
+	justify-self: center;
+}
+
+.education_info
+{
+	background-color: lightpink;
+	text-align: center;
+	justify-content: center;
+	justify-items: center;
+	align-items: center;
+	justify-self: center;
 }
