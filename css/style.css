@@ -153,7 +153,7 @@ font-weight: bold;
 /* Education-page (below) */
 .education_img
 {
-	background-color: wheat;
+/*	background-color: wheat;*/
 	text-align: center;
 	justify-content: center;
 	justify-items: center;
@@ -163,10 +163,145 @@ font-weight: bold;
 
 .education_info
 {
-	background-color: lightpink;
+/*	background-color: lightpink;*/
 	text-align: center;
 	justify-content: center;
 	justify-items: center;
 	align-items: center;
 	justify-self: center;
+}
+
+.footer_part
+{
+	font-weight: bold;
+/*	font-size: 20px;*/
+	font-style: oblique;
+}
+
+.BCA_Head
+{
+	padding-top: 30px;
+}
+
+.MCA_Head
+{
+	padding-top: 90px;
+}
+
+
+/*skill-page*/
+
+.skill_img
+{
+text-align: center;
+justify-content: center;
+	justify-items: center;
+	align-items: center;
+	justify-self: center;
+/*	background-color: lightskyblue;*/
+}
+
+.skill_info
+{
+	text-align: center;
+justify-content: center;
+	justify-items: center;
+	align-items: center;
+	justify-self: center;
+/*	background-color: lightpink;*/
+}
+
+.webdev_head
+{
+	margin-top: 55px;
+	font-weight: bold;
+}
+
+.webdev_para
+{
+	font-style: oblique;
+	font-weight: normal;
+	font-size: 19px;
+}
+
+.mysql_head
+{
+	margin-top: 150px;
+font-weight: bold;
+}
+
+.mysql_para
+{
+font-style: oblique;
+	font-weight: normal;
+	font-size: 19px;
+}
+
+.git_head
+{
+	margin-top: 170px;
+font-weight: bold;
+}
+
+.git_para
+{
+font-style: oblique;
+	font-weight: normal;
+	font-size: 19px;
+}
+
+.github_head
+{
+	margin-top: 100px;
+font-weight: bold;
+}
+
+.github_para
+{
+font-style: oblique;
+	font-weight: normal;
+	font-size: 19px;
+}
+
+.skiil_footer
+{
+	font-weight: bold;
+	font-style: oblique;
+	font-size: 21px;
+}
+
+/*contact-us page*/
+.contact_head
+{
+margin-top: -67px;
+margin-bottom: 35px;
+/*font-weight: bold;*/
+font-style: oblique;
+font-size: 30px;
+}
+
+.contact_info
+{
+	border: 1px solid grey;
+	width: 500px;
+	justify-items: center;
+	justify-content: center;
+	justify-self: center;
+	text-align: center;
+	margin-bottom: -9px;
+}
+
+.contact_info
+{
+/*background-color: lightskyblue;*/
+}
+
+.contact_btn
+{
+	padding-left: 35px;
+	padding-right: 35px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-size: 22px;
+	border-radius: 20px;
 }
